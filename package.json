@@ -1,0 +1,25 @@
+{
+  "name": "nukify",
+  "version": "1.0.0",
+  "description": "nukify nukifies",
+  "main": "nukify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/till/nukify.git"
+  },
+  "keywords": [
+    "nukify",
+    "system",
+    "green-field",
+    "approach"
+  ],
+  "author": "Till Klampaeckel <till@php.net>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/till/nukify/issues"
+  },
+  "homepage": "https://github.com/till/nukify#readme"
+}
